@@ -1,1 +1,1 @@
-# oneai-mini-project
+# OneAi Mini-Project
